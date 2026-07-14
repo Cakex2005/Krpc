@@ -1,0 +1,8 @@
+# CMake build directory
+/build/
+
+# Compiled binaries and object files
+/bin/client
+/bin/server
+*.o
+
